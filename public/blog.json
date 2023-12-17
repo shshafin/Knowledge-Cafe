@@ -1,50 +1,50 @@
 [
   {
     "id": "a001",
-    "cover": "https://flic.kr/p/2pmNSjE",
+    "cover": "https://i.imgur.com/i4sCqlU.jpg",
     "title": "The Mystery of the Lost City",
     "author": "John Doe",
-    "author_img": "https://flic.kr/p/2pmVkNc",
+    "author_img": "https://i.imgur.com/A97JvtK.jpg",
     "reading_time": 15,
     "posted_date": "2023-11-20",
     "hashtags": ["mystery", "adventure", "books"]
   },
   {
     "id": "a002",
-    "cover": "https://flic.kr/p/2pmNVQY",
+    "cover": "https://i.imgur.com/bJqwCt8.jpg",
     "title": "Coding with Python",
     "author": "Jane Smith",
-    "author_img": "https://flic.kr/p/2pmTFFz",
+    "author_img": "https://i.imgur.com/3hcMCSA.jpg",
     "reading_time": 20,
     "posted_date": "2023-11-19",
     "hashtags": ["python", "coding", "programming"]
   },
   {
     "id": "a003",
-    "cover": "https://flic.kr/p/2pmUDBp",
+    "cover": "https://i.imgur.com/RbfzKuO.jpg",
     "title": "Healthy Cooking Tips",
     "author": "Alice Johnson",
-    "author_img": "https://flic.kr/p/2pmVkNc",
+    "author_img": "https://i.imgur.com/A97JvtK.jpg",
     "reading_time": 12,
     "posted_date": "2023-11-18",
     "hashtags": ["cooking", "health", "nutrition"]
   },
   {
     "id": "a004",
-    "cover": "https://flic.kr/p/2pmTFny",
+    "cover": "https://i.imgur.com/Ozm5peg.jpg",
     "title": "Traveling on a Budget",
     "author": "Robert Turner",
-    "author_img": "https://flic.kr/p/2pmTFFz",
+    "author_img": "https://i.imgur.com/3hcMCSA.jpg",
     "reading_time": 25,
     "posted_date": "2023-11-17",
     "hashtags": ["travel", "budget", "adventure"]
   },
   {
     "id": "a005",
-    "cover": "https://flic.kr/p/2pmNWgh",
+    "cover": "https://i.imgur.com/2H64lYH.jpg",
     "title": "Mindfulness Meditation",
     "author": "Emily White",
-    "author_img": "https://flic.kr/p/2pmVkNc",
+    "author_img": "https://i.imgur.com/A97JvtK.jpg",
     "reading_time": 18,
     "posted_date": "2023-11-16",
     "hashtags": ["mindfulness", "meditation", "wellness"]
